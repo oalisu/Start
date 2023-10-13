@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background-color: cadetblue;
+    font-family: 'TitilliumTextRegular';
+    font-weight: normal;
+    font-style: normal;
+    color: white;
+    padding-left: 20% black;
+}
+
+p{
+    width: 30%;
+    margin: auto;
+}
+
+.button{
+    background-color: yellowgreen;
+}

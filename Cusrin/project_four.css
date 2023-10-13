@@ -1,19 +1,36 @@
 h1{
-    background-color: blue;
-    color: white;
-   }
-   
-   h2{
-     color: red;
-   }
-   
-   h3{
-     background: red;
-     color: green;
-     border: 3px solid gray;
-   }
-   
-   h3{
-     color: blue;
-   }
-   
+  text-align: center;
+  font-family: 'BigBottomCartoonRegular';
+  font-weight: normal;
+  font-style: normal;
+  }
+
+.art{
+  margin: auto;
+}
+
+td{
+background-color: black;
+height: 300px;
+width: 150px;
+}
+
+#one{
+  background-color: #242038;
+}
+
+#two{
+  background-color: #9067C6;
+}
+
+#three{
+  background-color: #8D86C9;
+}
+
+#four{
+  background-color: #CAC4CE;
+}
+
+#five{
+  background-color: #F7ECE1;
+}
