@@ -5,14 +5,22 @@ body{
     font-weight: normal;
     font-style: normal;
     color: white;
-    padding-left: 20% black;
+    border-top: 60px solid cadetblue;
+    border-left: 60px solid blue;
+    border-bottom: 60px solid blue;
+    border-right: 60px solid blue;
+    margin: 0px;
+    font-size: 150%;
 }
 
 p{
-    width: 30%;
+    width: 40%;
     margin: auto;
 }
 
 .button{
     background-color: yellowgreen;
+    border-radius: 20px;
+    margin: 30px;
+    padding: 20PX;
 }
