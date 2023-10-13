@@ -1,0 +1,19 @@
+h1{
+    background-color: blue;
+    color: white;
+   }
+   
+   h2{
+     color: red;
+   }
+   
+   h3{
+     background: red;
+     color: green;
+     border: 3px solid gray;
+   }
+   
+   h3{
+     color: blue;
+   }
+   
