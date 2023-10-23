@@ -1,10 +1,11 @@
-// var pounds = prompt("How much is your weight in pounds?")
-// var kg = pounds*0.454
-// var total = alert("Your weight in KG is:"+kg+"KG")
-// console.log("Conversion completed")
+var temp = 20
 
-
-var x = 1
-var y = 2
-
-x >= 0 || y === "2"
+if (temp>80) {
+    console.log("Hot outside!");
+} else if (temp <= 80 && temp >= 50) {
+    console.log("Average temp outside");
+} else if (temp < 50 && temp >= 32) {
+    console.log("It is pretty cold outside");
+}else {
+    console.log("It is veery cold outside!");
+}
